@@ -1,3 +1,7 @@
+<head>
+  <script src="https://kit.fontawesome.com/48f97f8976.js" crossorigin="anonymous" defer></script>
+</head>
+
 # daniel_jacks
 
 ![Daniel's Stats](https://github-readme-stats.vercel.app/api?username=daniel-jacks&show_icons=true&theme=dark)
@@ -12,8 +16,4 @@
 
 ---
 
-You can find me on [![LinkedIn][1.1]][1].
-
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-[1]: https://www.linkedin.com/in/daniel-jacks/
+You can find me on <i class="fa-brands fa-linkedin-in"></i>
