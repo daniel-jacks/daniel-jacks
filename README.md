@@ -1,7 +1,3 @@
-<head>
-  <script src="https://kit.fontawesome.com/48f97f8976.js" crossorigin="anonymous" defer></script>
-</head>
-
 # daniel_jacks
 
 ![Daniel's Stats](https://github-readme-stats.vercel.app/api?username=daniel-jacks&show_icons=true&theme=dark)
@@ -16,4 +12,5 @@
 
 ---
 
-You can find me on <i class="fa-brands fa-linkedin-in"></i>
+<p>Connect with me on LinkedIn!</p>
+<a href='https://www.linkedin.com/in/daniel-jacks/'><img src='./linkedin-brands.svg' style='width: 40px; height: 40px; background-color: #0072b1'></a>
