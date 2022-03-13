@@ -13,4 +13,4 @@
 ---
 
 <p>Connect with me on LinkedIn!</p>
-<a href='https://www.linkedin.com/in/daniel-jacks/'><img src='./linkedin-brands.svg' style='width: 40px; height: 40px; background-color: #0072b1'></a>
+<a href='https://www.linkedin.com/in/daniel-jacks/'><img src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif' style='width: 50px; height: 50px; background-color: #0072b1'></a>
