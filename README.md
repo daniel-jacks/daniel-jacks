@@ -10,5 +10,6 @@
 
 ---
 
-<p>Connect with me on LinkedIn!</p>
-<a href='https://www.linkedin.com/in/daniel-jacks/'><img src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif' style='width: 50px; height: 50px; background-color: #0072b1'></a>
+<h2>Connect with me on LinkedIn! &nbsp;  
+<a style='display: inline' href='https://www.linkedin.com/in/daniel-jacks/'><img src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif' style='width: 35px; height: 35px; background-color: #0072b1'></a>
+</h2>
