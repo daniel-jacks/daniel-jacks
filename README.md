@@ -1,6 +1,5 @@
 # A Bit About Me...
-
-<div >
+<div align="center">
   <a  href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-jacks&show_icons=true&theme=great-gatsby" />
   </a>
@@ -17,9 +16,12 @@
 ![](https://img.shields.io/badge/Developer-CSS-informational?style=flat&logo=css-wizardry&logoColor=66d3fa&color=66d3fa)
 
 ---
+
   <div>
     <h2>Connect with me on LinkedIn! &nbsp;  
     <a style='display: inline' target="_blank" rel="noopener noreferrer" href='https://www.linkedin.com/in/daniel-jacks/'><img src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif' style='width: 35px; height: 35px'></a>
     </h2>
   </div>
+
+
 </div> 
