@@ -1,4 +1,4 @@
-# A Bit About Me...
+# Full Stack Developer
 <div align="center">
   <a  href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-jacks&show_icons=true&theme=great-gatsby" />
@@ -8,6 +8,8 @@
   </a>
 <!-- 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-jacks&show_icons=true&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats) -->
+
+---
 
 ![](https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=node.js&logoColor=68a063&color=68a063) 
 ![](https://img.shields.io/badge/Developer-React-informational?style=flat&logo=react&logoColor=00ffff&color=00ffff)
