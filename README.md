@@ -2,7 +2,7 @@
 
 <div >
   <a  href="https://github.com/daniel-jacks">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-jacks&theme=Javascript" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-jacks&theme=Javascript-dark" />
   </a>
   <a  href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=daniel-jacks&show_icons=true&theme=cobalt2" />
