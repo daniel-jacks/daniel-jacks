@@ -2,10 +2,10 @@
 
 <div >
   <a  href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=daniel-jacks&show_icons=true&theme=great-gatsby" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-jacks&show_icons=true&theme=great-gatsby" />
   </a>
   <a  href="https://github.com/daniel-jacks">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-jacks&theme=great-gatsby" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-jacks&theme=great-gatsby" />
   </a>
 <!-- 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-jacks&show_icons=true&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats) -->
