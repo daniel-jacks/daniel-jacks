@@ -20,8 +20,8 @@
 ---
 
   <div>
-    <h2>Connect with me on LinkedIn! &nbsp;  
-    <a style='display: inline' target="_blank" rel="noopener noreferrer" href='https://www.linkedin.com/in/daniel-jacks/'><img src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif' style='width: 35px; height: 35px'></a>
+    <h2>Connect with me on 
+    <a style='display: inline' target="_blank" rel="noopener noreferrer" href='https://www.linkedin.com/in/daniel-jacks/'>LinkedIn! </a>
     </h2>
   </div>
 
