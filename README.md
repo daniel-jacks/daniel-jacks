@@ -16,7 +16,6 @@
 ![](https://img.shields.io/badge/Developer-JavaScript-informational?style=flat&logo=javascript&logoColor=f0db4f&color=f0db4f)
 ![](https://img.shields.io/badge/Developer-HTML-informational?style=flat&logo=html5&logoColor=ff3333&color=ff3333)
 ![](https://img.shields.io/badge/Developer-CSS-informational?style=flat&logo=css-wizardry&logoColor=66d3fa&color=66d3fa)
-![](https://img.shields.io/badge/Developer-C#-informational?style=flat&logo=css-wizardry&logoColor=66d3fa&color=66d3fa)
 
 ---
 
