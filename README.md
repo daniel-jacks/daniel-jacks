@@ -9,8 +9,6 @@
 <!-- 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-jacks&show_icons=true&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats) -->
 
----
-
 ![](https://img.shields.io/badge/Developer-Dotnet-informational?style=flat&logo=dotnet&logoColor=512BD4&color=512BD4)
 ![](https://img.shields.io/badge/Developer-TypeScript-informational?style=flat&logo=typescript&logoColor=027ACC&color=027ACC)
 ![](https://img.shields.io/badge/Developer-React-informational?style=flat&logo=react&logoColor=00ffff&color=00ffff)
