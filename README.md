@@ -18,8 +18,6 @@
 ![](https://img.shields.io/badge/Developer-JavaScript-informational?style=flat&logo=javascript&logoColor=f0db4f&color=f0db4f)
 ![](https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=node.js&logoColor=68a063&color=68a063) 
 
----
-
   <div>
     <h2>Connect with me on 
     <a style='display: inline' target="_blank" rel="noopener noreferrer" href='https://www.linkedin.com/in/daniel-jacks/'>LinkedIn! </a>
